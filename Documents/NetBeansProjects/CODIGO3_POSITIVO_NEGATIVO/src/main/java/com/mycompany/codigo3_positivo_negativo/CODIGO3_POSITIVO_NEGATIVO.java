@@ -28,11 +28,11 @@ public class CODIGO3_POSITIVO_NEGATIVO {
 
         // Verificar si el resultado es positivo o negativo
         if (suma > 0) {
-            System.out.println("El resultado es positivo.");
+            System.out.println("El resultado es igual positivo.");
         } else if (suma < 0) {
-            System.out.println("El resultado es negativo.");
+            System.out.println("El resultado es igual negativo.");
         } else {
-            System.out.println("El resultado es cero.");
+            System.out.println("El resultado es igual a cero .");
         }
 
         // Cerrar el scanner
